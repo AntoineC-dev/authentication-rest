@@ -13,7 +13,7 @@ _Secure authentication_ and _authorization_ w/ Express & React
 > This project displays the following skills:
 
 - 100% type-safe code
-- REST Api
+- REST Api / Axios
 - Token based auth (cookies)
 - Global state managment (Redux).
 
